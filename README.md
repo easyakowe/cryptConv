@@ -1,5 +1,5 @@
 ## CryptConv
-App that utilizes API Calls to fetch exchange data onto a clean neumorphic UI using Flutter
+App that utilizes API Calls to fetch exchange data onto a clean neumorphic UI design with text animations and progress HUD using Flutter
 
 ### Screenshots
 
