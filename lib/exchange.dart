@@ -1,6 +1,6 @@
 import 'networking.dart';
 
-const apiKey = 'BA1474AA-4BD7-451D-8BE4-9338B57CF27E';
+const apiKey = 'BA1474AA-4BD7-451D-8BE4-933857CF2';
 const coinApiURL = 'https://rest-sandbox.coinapi.io/v1/exchangerate/';
 
 //Ripple (XRP)
